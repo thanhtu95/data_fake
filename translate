@@ -1,0 +1,4 @@
+data: {
+  "Location request timed out": "لايمكن العثور على عنوان",
+  Login: "تسجيل الدخول",
+}
